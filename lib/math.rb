@@ -24,4 +24,4 @@ def square_root(num)
 end
 
 square_root(81)
-puts 9.0 == 9
+puts 9.2 == 9
