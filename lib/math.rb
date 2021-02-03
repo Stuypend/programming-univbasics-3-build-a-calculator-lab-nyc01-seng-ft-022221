@@ -22,6 +22,3 @@ def square_root(num)
   puts num**(0.5)
   return num**(0.5)
 end
-
-square_root(81)
-puts 9.2 == 9
