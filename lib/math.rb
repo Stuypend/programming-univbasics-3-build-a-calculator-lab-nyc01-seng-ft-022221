@@ -19,8 +19,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  puts num**(1/2)
-  return num**(1/2)
+  puts num**(0.5)
+  return num**(0.5)
 end
 
 square_root(81)
